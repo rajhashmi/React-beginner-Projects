@@ -39,5 +39,3 @@ function Header() {
 }
 
 export default Header;
-
-let stringArray = ["javaScript", "java", "c++", "kotlin", "nodeJS", "python", "jango",]
